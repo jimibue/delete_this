@@ -7,4 +7,7 @@
 ```ruby
  puts "hello'
 ```
-# James2 made this change 
+
+# James2 made this change
+
+# James1 makes a change
