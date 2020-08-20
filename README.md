@@ -1,4 +1,4 @@
-# This a header
+# This a james2 header 
 
 - the readme is for explaining what is going on in this repo
 
@@ -8,3 +8,5 @@
  puts "hello'
 ```
 # James2 made this change 
+
+# James 2 here 
