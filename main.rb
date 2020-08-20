@@ -11,6 +11,11 @@ def divide(num1, num2)
   num1 / num2
 end
 
+def times(num1, num2)
+  num1 * num2
+end
+
 puts add(1, 1)
 puts minus(1, 1)
 puts divide(1, 1)
+puts times(1, 1)
